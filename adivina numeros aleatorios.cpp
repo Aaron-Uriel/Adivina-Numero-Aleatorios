@@ -24,7 +24,7 @@ int main()
             }
             cout << "Te quedan " << x << " intentos" << endl;
         }
-        if (intento == correcto)
+        else
         {
             cout << "Felicidades, ganaste NADA!" << endl;
         }
